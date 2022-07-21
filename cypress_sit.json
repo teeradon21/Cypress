@@ -1,0 +1,10 @@
+{
+    "fixturesFolder" : "cypress/fixtures/sit",
+    "video" : false,
+    "env" : {
+        "environment" : "sit",
+        "headers" : {
+            "secret-key" : ""
+        }
+    }
+}
